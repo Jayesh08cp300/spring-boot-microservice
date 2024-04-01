@@ -1,4 +1,4 @@
-package com.micro;
+package com.micro.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
